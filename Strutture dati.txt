@@ -1,0 +1,10 @@
+Definizione struttura dati : In informatica, una struttura dati è un'entità usata per organizzare un insieme di dati
+all'interno della memoria del computer, ed eventualmente per memorizzarli in una memoria di massa.
+È un metodo di organizzazione dati, quindi prescinde da ciò che è effettivamente contenuto.
+Le strutture dati sono divise in statiche e dinamiche.
+Statiche hanno un numero fisso di elementi (Dim vettore[100] as Integer).
+Dinamiche hanno un numero variabile di elementi (lista = ['pippo'].
+Albero cambia in base alle esigenze.
+Il grafo è una generalizzazione dell'albero.
+Una pila è una struttura dati di tipo LIFO (Last In First Out).
+Una coda è una struttura dati di tipo FIFO (First In First Out). 
