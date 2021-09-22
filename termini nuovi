@@ -1,0 +1,2 @@
+Slicing: meccanismo attraverso il quale recuperiamo una parte della lista 
+List Comprehention: attraverso il quale costruiamo una lista scrivendo nelle parentesi quadre le istruzioni per generare i singoli elementi della lista
