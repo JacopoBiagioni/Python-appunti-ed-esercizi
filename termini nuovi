@@ -1,2 +1,4 @@
 Slicing: meccanismo attraverso il quale recuperiamo una parte della lista 
 List Comprehention: attraverso il quale costruiamo una lista scrivendo nelle parentesi quadre le istruzioni per generare i singoli elementi della lista
+Functions: una funzione è un costrutto sintattico dei linguaggi di programmazione che permette di raggruppare una serie di istruzioni, può avere 1 o più argomenti, gli argomenti 
+sono i valori di ingresso su cui la funzione opera. Deve avere anche un output.
