@@ -2,3 +2,10 @@ Slicing: meccanismo attraverso il quale recuperiamo una parte della lista
 List Comprehention: attraverso il quale costruiamo una lista scrivendo nelle parentesi quadre le istruzioni per generare i singoli elementi della lista
 Functions: una funzione è un costrutto sintattico dei linguaggi di programmazione che permette di raggruppare una serie di istruzioni, può avere 1 o più argomenti, gli argomenti 
 sono i valori di ingresso su cui la funzione opera. Deve avere anche un output.
+Parametro attuale: è quello che viene usato all'interno del programma
+Parametro formale: è quello della definizione della funzione
+La funzione deve avere una vita propria, deve avere un parametro di ingresso e uno di uscita, deve poter vivere in tanti programmi diversi.
+Lambda: funzioni anonime, sono funzioni che non hanno bisogno di un nome e possono essere scritti su una riga sola
+Map: è come se fosse un for per tutti gli elementi della lista, prende ogni elemento della lista e applica la funzione del primo parametro per ogni elemento della lista
+è una funzione che applica ad ogni elemento della lista una funzione.
+Ricorsione: è una ciclo infinito 
