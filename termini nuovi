@@ -8,4 +8,4 @@ La funzione deve avere una vita propria, deve avere un parametro di ingresso e u
 Lambda: funzioni anonime, sono funzioni che non hanno bisogno di un nome e possono essere scritti su una riga sola
 Map: è come se fosse un for per tutti gli elementi della lista, prende ogni elemento della lista e applica la funzione del primo parametro per ogni elemento della lista
 è una funzione che applica ad ogni elemento della lista una funzione.
-Ricorsione: è una ciclo infinito 
+Ricorsione: è un ciclo infinito 
