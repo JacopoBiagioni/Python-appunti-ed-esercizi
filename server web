@@ -1,0 +1,7 @@
+client: programmi che sono accesi quando servono all'utente
+http/https
+esempio programa client: browser qualunque (chrome, firefox,...)
+client attraverso il browser manda richieste al server web, il server web da delle risposte e il client le comunica all'utente
+server web, esempio apache, NGINX, node.js, flask
+html = Hyper Text Markup Language
+http = Hyper Text Transfer Protocol
